@@ -13,7 +13,7 @@
 		<div class="container" >
 			<div class="row">
 				<div class="col-md-4 col-sm-6" align="center">
-					<img src="wp-content/themes/nisarg/images/acm.png" height="100px" width="200px">
+					<img src="wp-content/themes/ACM-BLOG/images/acm.png" height="100px" width="200px">
 				</div>
 				<div class="col-md-4 col-sm-6" style="text-align: center;">
 					<a class="github_red" href="https://github.com/ACM-VIT">
@@ -34,7 +34,7 @@
 				</div>
 				<div class="col-md-4 col-sm-12" id="vtlg" align="center" >
 					<a href="https://vit.ac.in">
-						<img src="wp-content/themes/nisarg/images/vit_logo.png" height="100px" width="200px">
+						<img src="wp-content/themes/ACM-BLOG/images/vit_logo.png" height="100px" width="200px">
 					</a>
 				</div>
 			</div><!-- .site-info -->
