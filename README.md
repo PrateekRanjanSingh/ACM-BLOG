@@ -7,3 +7,4 @@
 <p style="text-align: center">3.Start your localhost/wordpress/wp-admin server and go to  theme-->Nisarg and click activate theme to activate the theme</p>
 <br>
 <p style="text-align: center">4.Type localhost/wordpress in your browser to view the page.</p>
+<p style="text-align: center">5. You need to install wordpress on your web server first to make it working</p>
